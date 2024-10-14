@@ -1,0 +1,57 @@
+<!-- 👋 Hi, I’m @ILYAS
+- 👀 I’m interested in PROGRAMMING AND COMPUTERS
+-->
+
+
+<!DOCTYPE html>
+<head>
+    <title>web page</title>
+</head>
+<body>
+
+<table border ="10">
+<caption> A SMALL TABLE ABOUT SOME COMPANIES AND THEIR MAIN SELLS </caption>
+    <thead>
+       <tr> 
+        <th>company</th>
+        <th>profession</th>
+        <th>nationality</th>
+       </tr>
+    </thead>
+    <tbody>
+        <tr>
+<td>microsoft</td>
+<td>os</td>
+<td>usa</td>
+        </tr>
+        <tr>
+<td>tesla</td>
+<td>cars</td>
+<td>usa</td>
+        </tr>
+        <tr>
+            <td>tiktok</td>
+            <td>social media</td>
+            <td>china</td>
+        </tr>
+        <tr>
+            <td colspan="2">best COMPANIES</td>
+            <td>1ST CONTRIES </td>
+        </tr>
+    </tbody>
+</table>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCHvaNSezW_JWSnnaAqsBsjcHqzIL-XIj4g&s" alt="RIVALS">
+
+<span>this is my 2nd page web</span>
+
+<p>thank you for u re time<br/>by </p>
+
+<hr/> 
+<p>au revoir</p>
+<ul>
+    <li>I CAME</li>
+    <li>I SAW</li>
+    <li>I PRAISE THE LORD</li>
+</ul>
+
+</body>
